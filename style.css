@@ -8,8 +8,7 @@ position: fixed;
   display: flex;
   justify-content: flex-end; /* centro horizontal */
   align-items: center;
-  padding-bottom: 10
-  0px;
+  padding-bottom: 100px;
   z-index: 900;
   background-image: url("imagenes/INICIO.jpg");
   background-size: cover;
@@ -246,3 +245,4 @@ section
 
 
 /**librooooooooooo**/
+
