@@ -11,7 +11,7 @@ position: fixed;
   padding-bottom: 10
   0px;
   z-index: 900;
-  background-image: url("/imagenes/INICIO.jpg");
+  background-image: url("imagenes/INICIO.jpg");
   background-size: cover;
   z-index: 1000;
   flex-direction: column;
@@ -80,7 +80,7 @@ nav
 /*mainnnnn*/
 .bloque-texto {
   flex: 1 1 60%;
-  background-image: url("/imagenes/celuskrita.jpg");
+  background-image: url("imagenes/celuskrita.jpg");
   background-size: cover;         /* Ajusta la imagen al contenedor */
   background-position: center;    /* Centra la imagen */
   background-repeat: no-repeat;   /* Evita que se repita */
@@ -243,5 +243,6 @@ section
 #posdcats:hover {
   background-color: #6d53a6;
 }
+
 
 /**librooooooooooo**/
