@@ -151,7 +151,13 @@ text-align: justify;
 
 
 /*foooterrr */
-
+.publicaciones
+{
+  text-align: center;
+  flex-direction: column;
+ font-size: x-large;
+ margin-top: 40px;
+}
 
 #btnFooter {
   padding: 11px 30px;
@@ -245,4 +251,5 @@ section
 
 
 /**librooooooooooo**/
+
 
